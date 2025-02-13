@@ -4,7 +4,82 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a5be94a-4b92-42f7-9bdb-633bfe0c4c1c" name="Changes" comment="" />
+    <list default="true" id="2a5be94a-4b92-42f7-9bdb-633bfe0c4c1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reference.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34283602490_b61f3da99d_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34283646340_4fe48d1bb7_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34287492780_6dab677857_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34288158610_6e42406193_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34289553800_606f1f2954_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34293312980_5f6c492c52_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34293871550_71d1e4d482_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34295444880_b4376b3a8b_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34300874850_923cc2881c_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34310869690_56cdc84a17_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34312496620_bc01a98aeb_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34326606950_41ff8997d7_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34326847400_f4de801005_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34337108550_0b619aa726_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34342014230_4230ae8e08_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34476770012_38fba290f3_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34486116262_411e6991f4_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34508227161_a9ff840f71_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34510103621_250ee7ae64_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34517409722_829ec7e152_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34518066912_0e432507bc_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34518374242_310e7abd54_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34520690871_8fe693bc71_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34520699571_f880744f46_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34522174462_b7cbee3ecb_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34524074031_e42b9b1acd_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34524085651_1f0b7e9497_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34530932101_957fab3650_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34531542152_c8ba2e0fea_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34532930772_5cc5fc600d_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34539556222_f7ba32f704_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34540113401_b81594e92a_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34540176411_a35a19a8ef_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34542837641_10492bf600_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34543119581_1fb7e0bd7f_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34546791291_eb8e15e18a_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34546994701_a000b283f1_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34547261352_d39bf4073a_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34554334542_7d8f68a75c_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34562146951_cf3d2a627c_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34566613262_fefbcc279a_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34571214621_f655295459_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34585331601_837dbe5254_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34585995071_13e07140d8_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34590677231_0ed33ccd55_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34591991761_16fc5c9c00_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34602180741_cf2f671ba5_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34611565966_9de274f987_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34613530216_26cf037012_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34637394046_f85541735d_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34637970155_a2b917077c_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34638378196_216d5bbc2e_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34643914016_2e659d6e82_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34652819496_0b6f758986_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34658035045_7782e95b50_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34661399476_9ea7e2fd53_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34664107325_701d5c6f08_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34665595995_13f76d5b60_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34670512115_af22cce24d_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34682895116_88ef018e83_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34693373736_9ce6d9e1c3_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34695914906_961f92ffcd_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34696729796_190b1dfdf1_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34696730126_056ffea63c_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34696730346_5f0c131e59_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34701078235_4a770d14a1_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34701198765_54aa641d7a_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34718882165_68cdc9def9_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34720703615_bdf1335d8b_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34727863665_b00ac77266_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34729724865_787c98299d_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/original/daisy/34733243845_29f1c30634_n.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +112,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/school/flowers",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/jonahnlewis/cs/flowers/data/test/daisy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +124,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/test/daisy" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -59,8 +135,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
