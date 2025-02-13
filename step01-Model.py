@@ -1,8 +1,9 @@
-import numpy as np
 import tensorflow as tf
-from keras.preprocessing.image import ImageDataGenerator
-import matplotlib.pyplot as plt
+import keras
 
-TRAINING_DIRECTORY = '../data/training'
-TESTING_DIRECTORY = '../data/test'
-VALIDATION_DIRECTORY = '../data/validation'
+TRAINING_PATH = "./data/training"
+
+train_dataset = keras.utils.image_dataset_from_directory(
+    TRAINING_PATH,
+    validation_split=0.2
+)
