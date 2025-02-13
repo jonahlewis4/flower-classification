@@ -24,7 +24,7 @@ def classify_image(model, img_path, class_names):
 # Load the model
 ####################################################################
 from keras.api.models import load_model
-model = load_model("flower-classifier.h5")
+model = load_model("./flower_classifier.h5")
 _, _, class_names = load_data_from_dir(DATASET_PATH) #get class names of the data set
 
 
@@ -53,9 +53,12 @@ def testRandomImage(model, class_names, dataset_path):
     correct = predicted_class == random_class_dir
 
     # Print the results
-    print(f"Predicted: {predicted_class} (Confidence: {confidence:.2f})")
-    print(f"Actual: {random_class_dir}")
-    print(f"Correct: {correct}")
+    if correct:
+        print(f"Predicted: {predicted_class} Actual: {random_class_dir} Correct: \033[92m{correct}\033[0m")
+    else:
+        print(f"Predicted: {predicted_class} Actual: {random_class_dir} Correct: \033[91m{correct}\033[0m")
 
-# Example usage
-testRandomImage(model, class_names, DATASET_PATH)
+if __name__ == "__main__":
+    for _ in range(0,1000) :
+        testRandomImage(model, class_names, DATASET_PATH)
+
